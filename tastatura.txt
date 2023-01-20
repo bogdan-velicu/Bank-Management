@@ -1,2 +1,2 @@
-3
-1 2 3
+Bogdan 12345 RO 0
+Andrei 10000 RO 2
